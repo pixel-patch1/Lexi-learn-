@@ -1,2 +1,5 @@
-# Lexi-learn-
-An ai companion for the people with dyslexia 
+#include<iostream>
+using namespace std;
+int main(){
+
+}
